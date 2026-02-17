@@ -1,0 +1,18 @@
+{
+    "title": "Python: Booleans",
+    "slug": "python-booleans",
+    "description": "Introduction to Python's bool type with True and False values. Covers how to create boolean variables.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 2,
+    "prerequisites": [
+        "python-print",
+        "programming-booleans",
+        "python-print"
+    ],
+    "related": []
+}
