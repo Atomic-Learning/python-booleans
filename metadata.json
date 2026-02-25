@@ -14,5 +14,8 @@
         "programming-booleans",
         "python-print"
     ],
-    "related": []
+    "related": [
+        "python-boolean-operators",
+        "python-boolean-expressions-if-elif-else"
+    ]
 }
